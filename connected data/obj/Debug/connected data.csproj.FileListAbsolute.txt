@@ -1,0 +1,14 @@
+D:\C#\prj wdf\prjwindowform\connected data\connected data\bin\Debug\connected data.exe.config
+D:\C#\prj wdf\prjwindowform\connected data\connected data\bin\Debug\connected data.exe
+D:\C#\prj wdf\prjwindowform\connected data\connected data\bin\Debug\connected data.pdb
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected data.csproj.AssemblyReference.cache
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected_data.Properties.Resources.resources
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected data.csproj.GenerateResource.cache
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected data.csproj.CoreCompileInputs.cache
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected data.exe
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected data.pdb
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected_data.frmMonHoc.resources
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected_data.frjmain.resources
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected_data.frmSinhVien.resources
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected_data.frmKhoa.resources
+D:\C#\prj wdf\prjwindowform\connected data\connected data\obj\Debug\connected_data.frmKetQua.resources
